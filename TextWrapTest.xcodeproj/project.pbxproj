@@ -103,7 +103,7 @@
 			};
 			buildConfigurationList = 40AE2C5C2B57A96B008A9138 /* Build configuration list for PBXProject "TextWrapTest" */;
 			compatibilityVersion = "Xcode 14.0";
-			developmentRegion = en;
+			developmentRegion = ja;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
